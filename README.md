@@ -6,7 +6,7 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## 🚀 Live Demo  
-[Click here to view the live site](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/)
+[Click here to view the live site](https://deepika1163.github.io/responsive_webpage/)
 
 ---
 
