@@ -1,8 +1,7 @@
 # 🌱 Plant Guide Website
 
 A simple, interactive, and responsive Plant Guide website that helps users learn about different plants, their benefits, and care tips.
-
-Built using HTML, CSS, and JavaScript, the site adapts to different screen sizes, making it accessible on desktops, tablets, and mobile devices.
+Built using HTML, CSS, and JavaScript, the webpage adapts to different screen sizes, ensuring a smooth experience on desktops, tablets, and mobile devices.
 
 ---
 
