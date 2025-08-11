@@ -1,4 +1,4 @@
-# 🌱 Plant Guide Website
+# 🌱 Plant Guide Website Task 2 (CodTech Internship)
 
 A simple, interactive, and responsive Plant Guide website that helps users learn about different plants, their benefits, and care tips.
 Built using HTML, CSS, and JavaScript, the webpage adapts to different screen sizes, ensuring a smooth experience on desktops, tablets, and mobile devices.
